@@ -5,7 +5,7 @@ import { GridItem } from "@/components/grid-items";
   export default function Home() {
     return (
       <main className="min-h-screen bg-black">
-        <header className="bg-gray-200 p-4 flex justify-between items-center">
+        <header className=" bg-gray-200 p-4 flex justify-between items-center">
           <Logo />
           <MenuButton />
         </header>
