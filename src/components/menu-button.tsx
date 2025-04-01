@@ -1,3 +1,5 @@
+"use client"
+
 import { useState } from "react"
 
 export function MenuButton() {
@@ -42,4 +44,3 @@ export function MenuButton() {
     </nav>
     )
 }
-
