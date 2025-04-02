@@ -14,7 +14,7 @@ interface GridItemProps {
             </figure>
             <section className="p-3 flex-grow">
                 <h2 className="font-medium text-gray-900 truncate">Event pinacoteca</h2>
-                <p className="tex-sm text-gray-600 line-clamp-2">The event is led by the University's Culutra, Bienestar and Muisca area with live presentations with the participation of students </p>
+                <p className="tex-sm text-gray-600 line-clamp-2">The event is led by the Universitys Culutra, Bienestar and Muisca area with live presentations with the participation of students </p>
             </section>
         </article>
         </section>
