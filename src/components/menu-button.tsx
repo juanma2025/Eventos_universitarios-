@@ -17,28 +17,28 @@ export function MenuButton() {
 
         {isOpen && (
         <section className="absolute right-0 mt-2 w-48 bg-white rounded shadow-md">
-            <ul className="py-1">
-            <li>
+            <span className="py-1">
+            <section>
                 <a href="#" className="block px-4 py-2 text-gray-800 hover:bg-gray-100">
                 Home
                 </a>
-            </li>
-            <li>
+            </section>
+            <section>
                 <a href="#" className="block px-4 py-2 text-gray-800 hover:bg-gray-100">
                 Products
                 </a>
-            </li>
-            <li>
+            </section>
+            <section>
                 <a href="#" className="block px-4 py-2 text-gray-800 hover:bg-gray-100">
                 Services
                 </a>
-            </li>
-            <li>
+            </section>
+            <section>
                 <a href="#" className="block px-4 py-2 text-gray-800 hover:bg-gray-100">
                 Contact
                 </a>
-            </li>
-            </ul>
+            </section>
+            </span>
         </section>
         )}
     </nav>
