@@ -1,5 +1,8 @@
 interface GridItemProps {
     iSelected?: boolean
+    image?: string
+    title?: string
+    description?: string
     }
 
     export function GridItem({ iSelected = false }: GridItemProps) {

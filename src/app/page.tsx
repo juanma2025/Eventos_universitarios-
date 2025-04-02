@@ -9,10 +9,14 @@ import { GridItem } from "@/components/grid-items";
           <Logo />
           <MenuButton />
         </span>
-  
         <section className="p-4 bg-gray-800 mx-4 my-4 border">
         <section className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          <GridItem  />
+          <GridItem
+            iSelected={true}
+            image="/volante.jpeg?h=200 w=200"
+            title="Product One"
+            description="This is the first product with amazing features."
+          /> 
           <GridItem />
           <GridItem />
           <GridItem />
