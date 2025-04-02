@@ -19,7 +19,7 @@ import { GridItem } from "@/components/grid-items";
           <GridItem />
           <GridItem />
         </section>
-          <h1 className=" text-white text-3xl font-extrabold">Bienvenidos a Eventos y Talentos Ucc </h1>
+          <h1 className=" text-white text-3xl font-extrabold">Welcome to Events and Talents Ucc </h1>
         </section>
       </main>
     )
