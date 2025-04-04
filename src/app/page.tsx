@@ -16,7 +16,7 @@ import { GridItem } from "@/components/grid-items";
             iSelected={true}
             image="/volante.jpeg?h=200 w=200"
             title="Product One"
-            description="This is the first product with amazing features."
+            description="zorra."
           /> 
           <GridItem />
           <GridItem />
